@@ -3,6 +3,8 @@
 Este es un proyecto de **Landing Page** básico, desarrollado solo con **HTML y CSS**,
 creado con el objetivo de **practicar y mejorar mis habilidades de desarrollo web**.
 
+![Vista del Home y de landing para Us.](img/vista.png)
+
 ## 🌟 Características:
 
 - Diseño **responsivo** para adaptarse a diferentes tamaños de pantalla.
